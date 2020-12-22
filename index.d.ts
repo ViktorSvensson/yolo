@@ -18,12 +18,7 @@
  *
  * @export
  * @template T
- * @param {() => T} f
- * @returns T
+ * @param f
+ * @returns
  */
-function yolo(f) {
-  try {
-    return f();
-  } catch (_a) {}
-}
-exports.default = yolo;
+export default function yolo<T>(f: () => T): T;
