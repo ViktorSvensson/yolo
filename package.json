@@ -1,0 +1,18 @@
+{
+  "name": "@floss/yolo",
+  "version": "0.0.1",
+  "description": "Does it throw an error? I don't know. YOLO.",
+  "main": "index.js",
+  "keywords": [
+    "nice",
+    "try",
+    "catch",
+    "ignore",
+    "error"
+  ],
+  "author": {
+    "name": "Carl Viktor Svensson",
+    "url": "https://github.com/viktorsvensson"
+  },
+  "license": "Apache-2.0"
+}
