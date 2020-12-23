@@ -1,6 +1,6 @@
 {
   "name": "@floss/yolo",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Does it throw an error? I don't know. YOLO.",
   "main": "index.js",
   "types": "index.d.ts",
