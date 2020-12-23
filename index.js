@@ -26,4 +26,4 @@ function yolo(f) {
     return f();
   } catch (_a) {}
 }
-exports.default = yolo;
+module.exports = yolo;
