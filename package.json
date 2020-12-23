@@ -9,6 +9,8 @@
     "type": "git",
     "url": "https://github.com/viktorsvensson/yolo"
   },
+  "dependencies": {},
+  "devDependencies": {},
   "keywords": [
     "nice",
     "try",
